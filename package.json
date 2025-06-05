@@ -1,6 +1,6 @@
 {
-  "name": "@cbui-cli/cbui-cli",
-  "version": "2.0.0",
+  "name": "cbui-cli",
+  "version": "1.0.0",
   "description": "Crossbuild UI CLI to create expo app and download ui components.",
   "main": "bin/cli.js",
   "bin": {
