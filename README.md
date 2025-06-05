@@ -1,8 +1,5 @@
 # ✨ Crossbuild UI CLI ✨
 
-[![NPM version](https://img.shields.io/badge/NPM%20version?style=flat)](https://www.npmjs.com/package/cbui-cli)
-[![License](https://img.shields.io/badge/License?style=flat)](https://github.com/Crossbuildui/Crossbuildui/blob/main/LICENSE)
-
 **Build Mobile Apps Faster. Way Faster.**
 
 The Crossbuild UI CLI is your command-line companion for jumpstarting Expo projects and integrating stunning, pre-built UI components from [Crossbuild UI](https://crossbuildui.com) directly into your workflow.
