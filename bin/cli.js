@@ -42,7 +42,7 @@ displayBanner();
 program
     .name('cbui-cli')
     .description('Crossbuild UI CLI to create expo app and download ui components.')
-    .version('1.0.0');
+    .version('2.5.1');
 
 program.helpInformation = function () {
     return customHelpContent;
